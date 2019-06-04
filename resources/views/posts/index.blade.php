@@ -13,7 +13,7 @@
       <div style=" padding: 0 20px; box-shadow: 5px 5px 10px #aaaaaa;">
 
       
-        <h1>Posts</h1>
+        <h1>Postspppppppppp</h1>
         {{$posts->links()}}
         @if(count($posts)>0)
           @foreach($posts as $post)
